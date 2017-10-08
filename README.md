@@ -15,6 +15,6 @@ The IC on the board will then stop providing the power to MCU and re-start provi
   |     |-- WDtimer.h    .h source file
   |
   |-- /Hardware
-  |     |-- watchswitch_schematic_rev1.pdf     Circuit diagram
+  |     |-- watchdog_switch_schematic_rev1.pdf     Circuit diagram
   
 ```
